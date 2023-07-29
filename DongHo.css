@@ -1,0 +1,43 @@
+#body
+{
+    background-color: black;
+}
+
+#test
+{
+    text-align: center;
+    font-family: serif;
+    color: lightblue;
+    letter-spacing: 2px;
+    font-size: 200px;
+    text-shadow: 5px 3px 25px #000CFF;
+    padding: 5px;
+    border: 5px lightskyblue;
+    border-radius: 30px;
+}
+
+#bl
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+#ttt
+{
+    color: lightskyblue;
+    text-align: center;
+    text-shadow: 10px 13px 30px #000FFF;
+    padding: 5px;
+    border: 2px #000CFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    border-radius: 30px;
+}
+
+#all
+{
+    padding: 5px;
+    border: 5px solid #0093FF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+}
